@@ -1,6 +1,6 @@
 {
   "versionCode": 100,
   "version": "v1.0",
-  "zipUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-383/Shamiko-v1.2.1-383-release.zip",
-  "changelog": "https://github.com/LSPosed/LSPosed.github.io/raw/master/releases/shamiko_changelog.md"
+  "zipUrl": "https://github.com/zh-sc/zygisk_RedmiK80Pro/releases/download/%E5%88%9D%E5%A7%8B%E5%8C%96/Redmi.K80.Pro_v1.0.zip",
+  "changelog": "https://github.com/zh-sc/zygisk_RedmiK80Pro/blob/main/sc/RedmiK80Pro_changelog.md"
 }
